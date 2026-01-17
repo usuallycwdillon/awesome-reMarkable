@@ -120,6 +120,7 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - (Unmaintained) [reCatchable](https://github.com/lapwat/reCatchable) - Turn websites into ebooks, upload them to reMarkable.
 - [reGitable](https://github.com/after-eight/regitable) - Backup your reMarkable with git and sync changes to a remote repository automatically.
 - [Remarcal](https://remarcal.com/) - Sync Google, Outlook, Apple, and more calendars to reMarkable.
+- [reMarkable Todoist and Calendar Sync](https://github.com/usuallycwdillon/remarkable-calendar) Puts Todoist tasks and Google calendar events a calendar then pushes to reMarkable.
 - [reMarkable Morning News](https://github.com/ktibr0/reMarkable_morning_news) - Automatically sends daily news to your reMarkable tablet.
 - [reMarkable RSS](https://github.com/eksubin/Remarkable-RSS-Feed) - Read RSS feeds on reMarkable via google drive integration. Automated Script to convert RSS-feeds as PDFs and upload to google drive.
 - [remarkable-mcp](https://github.com/SamMorrowDrums/remarkable-mcp) - Model Context Protocol server enabling AI assistants to read and browse your reMarkable documents via SSH (no subscription required) or Cloud API. [Blog post](https://sam-morrow.com/blog/building-an-mcp-server-for-remarkable).
