@@ -198,6 +198,17 @@ See [remarkable.guide](https://remarkable.guide/tech/factory-reset.html) for mor
 - [remarkable-shortcuts](https://github.com/martinetd/remarkable-shortcuts) - Add extra 'gestures' (currently double taps) for easier navigation.
 - [rM Hacks](https://github.com/mb1986/rm-hacks) - Small improvements and tweaks for rM devices.
 - [rM Hacks (QLMDiff)](https://github.com/asivery/rm-hacks-qmd) - Port of rmhacks for xovi.
+- [rm-hacks-xovi-qmd (Samarkin)](https://github.com/Samarkin/rm-hacks-xovi-qmd)
+  - `clearScreenBeforeLocking` - Fixes ghosting when using custom suspend screen.
+  - `enableExtraPenOnMove` - Adds a slot for the second pen on Paper Pro Move.
+  - `eraseSelection` - Adds an option to delete selection without losing clipboard contents.
+  - `forceRefreshGesture` - Adds a gesture to force refresh the screen to eliminate accumulated ghosting.
+  - `frontLightIcon` - Adds a front light status indicator to document mode.
+  - `gestures` - Adds gestures to switch between two pens and selection tool without the need to show toolbar.
+  - `hideCloseButton` - Hides the close button in document view to allow for more space on Paper Pro Move.
+  - `instantFavorites` - Removes the delayed refresh of document drawer at the cost of not showing the latest list.
+  - `toolbarIcon` - Modifies the show toolbar button to display color of the current tool.
+  - `uncompressDock` - Replaces the '+' button in the navigator view with the actual icons.
 - [rM-signature-patch](https://github.com/Barabazs/rM-signature-patch) - Simple script to remove that pesky advert at the bottom of a mail originating from a reMarkable.
 - [rm-xovi-extensions](https://github.com/asivery/rm-xovi-extensions) - extensions for the reMarkable tablets, which utilize the xovi framework
   - `framebuffer-spy` - Exposes the address of the system framebuffer.
